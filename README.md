@@ -1,3 +1,6 @@
+---
+bibliography:bibtex.bib
+---
 # End-To-End Speaker Verification based on X-vector and Neural PLDA - A PyTorch implementation
 
 
@@ -9,7 +12,7 @@ You can find the paper associated with this work which was accepted at INTERSPEE
 
 If you plan to use this work, the citing information is given below:
 
-"@misc{ramoji2020neural,
+@misc{ramoji2020neural,
     title={Neural PLDA Modeling for End-to-End Speaker Verification},
     author={Shreyas Ramoji and Prashant Krishnan and Sriram Ganapathy},
     year={2020},
@@ -17,4 +20,4 @@ If you plan to use this work, the citing information is given below:
     archivePrefix={arXiv},
     primaryClass={eess.AS}
 }
-"
+
